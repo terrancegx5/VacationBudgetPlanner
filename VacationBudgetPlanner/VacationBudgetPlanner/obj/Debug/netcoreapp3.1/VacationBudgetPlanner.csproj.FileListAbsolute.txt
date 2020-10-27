@@ -1,0 +1,12 @@
+/Users/Karma/Projects/VacationBudgetPlanner/VacationBudgetPlanner/bin/Debug/netcoreapp3.1/VacationBudgetPlanner.deps.json
+/Users/Karma/Projects/VacationBudgetPlanner/VacationBudgetPlanner/bin/Debug/netcoreapp3.1/VacationBudgetPlanner.runtimeconfig.json
+/Users/Karma/Projects/VacationBudgetPlanner/VacationBudgetPlanner/bin/Debug/netcoreapp3.1/VacationBudgetPlanner.runtimeconfig.dev.json
+/Users/Karma/Projects/VacationBudgetPlanner/VacationBudgetPlanner/bin/Debug/netcoreapp3.1/VacationBudgetPlanner.dll
+/Users/Karma/Projects/VacationBudgetPlanner/VacationBudgetPlanner/bin/Debug/netcoreapp3.1/VacationBudgetPlanner.pdb
+/Users/Karma/Projects/VacationBudgetPlanner/VacationBudgetPlanner/obj/Debug/netcoreapp3.1/VacationBudgetPlanner.csprojAssemblyReference.cache
+/Users/Karma/Projects/VacationBudgetPlanner/VacationBudgetPlanner/obj/Debug/netcoreapp3.1/VacationBudgetPlanner.AssemblyInfoInputs.cache
+/Users/Karma/Projects/VacationBudgetPlanner/VacationBudgetPlanner/obj/Debug/netcoreapp3.1/VacationBudgetPlanner.AssemblyInfo.cs
+/Users/Karma/Projects/VacationBudgetPlanner/VacationBudgetPlanner/obj/Debug/netcoreapp3.1/VacationBudgetPlanner.csproj.CoreCompileInputs.cache
+/Users/Karma/Projects/VacationBudgetPlanner/VacationBudgetPlanner/obj/Debug/netcoreapp3.1/VacationBudgetPlanner.dll
+/Users/Karma/Projects/VacationBudgetPlanner/VacationBudgetPlanner/obj/Debug/netcoreapp3.1/VacationBudgetPlanner.pdb
+/Users/Karma/Projects/VacationBudgetPlanner/VacationBudgetPlanner/obj/Debug/netcoreapp3.1/VacationBudgetPlanner.genruntimeconfig.cache
